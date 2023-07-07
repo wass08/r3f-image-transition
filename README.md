@@ -2,4 +2,4 @@
 
 [Video tutorial](https://youtu.be/SOF7GBmC6gE)
 
-[Live demo](https://r3f-image-transition.vercel.app/)https://r3f-image-transition.vercel.app/
+[Live demo](https://r3f-image-transition.vercel.app/)
