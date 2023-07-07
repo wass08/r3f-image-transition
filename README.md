@@ -1,10 +1,5 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+![Portfolio Avatar (11)](https://github.com/wass08/r3f-image-transition/assets/6551176/1df28125-eee0-4a6a-b014-1c0cf9d607ed)
 
-```
-yarn
-yarn dev
-```
+[Video tutorial](https://youtu.be/SOF7GBmC6gE)
 
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+[Live demo](https://r3f-image-transition.vercel.app/)https://r3f-image-transition.vercel.app/
